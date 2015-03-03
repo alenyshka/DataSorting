@@ -1,0 +1,15 @@
+﻿Build started 03.03.2015 16:30:24.
+     1>Project "e:\ОАиП\Лабы\Laba_1_Struct\Laba_1_Struct\Laba_1_Struct.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\установленные\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt lab2.c
+         lab2.c
+     1>e:\оаип\лабы\laba_1_struct\laba_1_struct\lab2.c(28): warning C4013: 'getch' undefined; assuming extern returning int
+       Link:
+         D:\установленные\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ОАиП\Лабы\Laba_1_Struct\Debug\Laba_1_Struct.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ОАиП\Лабы\Laba_1_Struct\Debug\Laba_1_Struct.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ОАиП\Лабы\Laba_1_Struct\Debug\Laba_1_Struct.lib" /MACHINE:X86 Debug\lab2.obj
+         Debug\Source.obj
+         Laba_1_Struct.vcxproj -> E:\ОАиП\Лабы\Laba_1_Struct\Debug\Laba_1_Struct.exe
+     1>Done Building Project "e:\ОАиП\Лабы\Laba_1_Struct\Laba_1_Struct\Laba_1_Struct.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
